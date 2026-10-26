@@ -150,14 +150,6 @@ THREAT:    Skynet
 > *"I'll be back."*
 
 ---
-
-## 🌟 Other Favorites
-
-- **Stranger Things**: 80s nostalgia meets supernatural mystery
-- **Add your own here!**
-
----
-
 ## 📝 Watchlist
 
 - [ ] Rewatch *Breaking Bad* (again)
